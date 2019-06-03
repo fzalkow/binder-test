@@ -1,0 +1,9 @@
+name: binder-test
+
+dependencies:
+  - python==3.6.5
+  - numpy==1.13.3
+  - scipy==1.0.0
+  - matplotlib==2.0.2
+  - jupyter==1.0.0
+  - librosa==0.6.0
